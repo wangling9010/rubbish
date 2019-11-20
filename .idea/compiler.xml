@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true">
+        <processorPath>
+          <entry name="$PROJECT_DIR$" />
+        </processorPath>
+      </profile>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="microservicecloudproviderdept8002" />
+        <module name="microservercloudeureka7002" />
+        <module name="mircoservicecloudapi" />
+        <module name="microservicecloudeureka7001" />
+        <module name="microservicecloudconsumerdept80" />
+        <module name="mircoservicecloudproviderdept8001" />
+        <module name="microservececloudeuruka7003" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
